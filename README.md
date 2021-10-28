@@ -125,3 +125,4 @@ AdminLTE.io reserves the right to change the license of future releases.
 - [Pickaface](https://pickaface.net/)
 - [Unsplash](https://unsplash.com/)
 - [Uifaces](http://uifaces.com/)
+- Thank you.
